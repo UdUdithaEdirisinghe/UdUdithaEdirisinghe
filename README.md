@@ -1,6 +1,9 @@
 <h1 align="left">👾 Welcome to my corner of the internet.</h1>
 
 ###
+<div style="text-align: center;">
+  <img src="octocat-1748165814552.png" alt="Octocat" style="width: 300px; height: auto;">
+</div>
 
 <p align="left">I'm Uditha, an Information Systems undergrad at USJP, with a curious mind and a passion for discovering how things work.</p>
 
