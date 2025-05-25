@@ -9,14 +9,6 @@
 
 ###
 
-<h2 align="left">About Me:</h2>
-
-###
-
-<p align="left">I’m Uditha, an IS undergrad who enjoys figuring out how systems work. I enjoy working with data, systems, and problem-solving more than just writting the code.</p>
-
-###
-
 <h2 align="left">Toolbox:</h2>
 
 ###
